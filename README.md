@@ -1,7 +1,7 @@
 # Hack4all
 A program used as a reference model for hacking/penetration testing. Contains favorite hacking/security commands in an interactive environment 
 # rulez 
-Add all good tools, commands, links and stuff onto the all_hack.txt file following the specific rules:
+Add all good tools, commands, links and stuff onto the everything_hack.txt file following the specific rules:
 anything to do with hacking placed within the correct category, line must start with a '$' symbol one white space, and then command/tool name
 
 e.g.
