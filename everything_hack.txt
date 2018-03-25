@@ -1,0 +1,53 @@
+- PASSIVE INFO GATHERING
+$ google dorks
+$ google haking
+$ httrack
+$ wget
+$ ping
+$ hping
+$ dnsrecon
+$ dnsenum
+$ whois
+$ netcraft
+$ inspy
+$ twitter
+$ facebook
+$ indeed
+$ monster
+$ maltego
+$ host
+- ACTIVE INFO GATHERING
+$ traceroute
+$ nmap
+$ dirb
+$ sparta
+$ dnsmap
+$ masscan
+$ netcat
+$ dns-recon
+$ curl
+$ burpsuite
+$ spiderfoot
+$ wafw00f
+- FURTHER RECON 
+$
+$
+- VULNERABILITY SCANNING 
+$
+$
+- EXPLOITATION 
+$
+$
+- POST EXPLOITATION
+$
+$
+- BOOKS
+$
+$
+- LINKS 
+$
+$
+- FORUMS  
+$
+$
+
