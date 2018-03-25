@@ -6,7 +6,7 @@ anything to do with hacking placed within the correct category, line must start 
 
 e.g.
 $ nmap -T4 -sS -f -O 192.168.2.0/24. -oA
-$ tool (arguments)
+
 
 the reason for this, for the moment is that the code uses split('$ ') to determine what is part of the cool hackery content on the file
 
